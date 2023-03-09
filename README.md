@@ -41,7 +41,7 @@ Hello Moi nguoi
 
 
 ### 📊 Stats
-![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=ZuyMPham&theme=tokyonight&layout=compact)
+![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=ZuyMPham&theme=gruvbox&layout=compact)
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
 
