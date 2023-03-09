@@ -10,7 +10,7 @@ Hello Moi nguoi
 "/></a> 
       <a href="https://www.linkedin.com/in/zuy-pham/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-      <a href="https://www.facebook.com/minhduy2910/">
+      <a href="https://www.facebook.com/">
          <img alt="Facebook" title="FaceBook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
       <a href="https://zuy.vercel.app">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
