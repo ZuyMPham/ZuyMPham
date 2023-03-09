@@ -1,6 +1,6 @@
 # Zuy Pham 
 
-**`Nam Than Coding (Developer/Inventor)`**
+**`Nam Than Coding/ Ninja Copy Code (Developer/Inventor)`**
 
 Hello Moi nguoi
 
